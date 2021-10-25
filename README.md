@@ -1,5 +1,5 @@
 # Ride-hailing_rider_app
-I built this clothes shop native android app in which I tried to best practices in android development.
+Ride hailing app that helps users find drivers and take them from point A to point B.
 
 <img src="https://user-images.githubusercontent.com/43790630/138768790-295fd49e-ea37-49b6-856f-b052dae0adfb.png" width="360" height="640"> <img src="https://user-images.githubusercontent.com/43790630/138768815-20d3d30c-2416-423b-97f8-828d5f1b8a36.png" width="360" height="640">
 
